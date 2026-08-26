@@ -1,6 +1,6 @@
 # BoringManager
 
-<img width="1366" height="685" alt="image" src="https://github.com/user-attachments/assets/c4e17acd-c10b-49ab-8441-123a56cccd51" />
+<img width="1366" height="685" alt="image" src="https://github.com/user-attachments/assets/5ae2f26e-13d8-47d8-8d8c-0741777660c9" />
 
 A lightweight, dependency-free, single-file PHP file manager packed into **1 line of code**.
 
